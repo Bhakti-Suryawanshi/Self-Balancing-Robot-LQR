@@ -19,4 +19,6 @@ States: $x = [x, \dot{x}, \theta, \dot{\theta}]^T$
 2. Open `robot_model.slx` in Simulink.
 3. Click **Run** and open the **Scope** block to view system stability plots.
 
+## Output Video (Drive Link): https://drive.google.com/drive/folders/1hvzbcNUAsTKtpbh_FfF7UkfyzV4Gx46E?usp=drive_link
+
 
