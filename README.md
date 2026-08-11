@@ -19,6 +19,4 @@ States: $x = [x, \dot{x}, \theta, \dot{\theta}]^T$
 2. Open `robot_model.slx` in Simulink.
 3. Click **Run** and open the **Scope** block to view system stability plots.
 
-##  Simulation Results
-![Scope Output](scope_output.png)
-*The system successfully stabilizes the initial tilt angle ($\theta = 0.1\text{ rad}$) back to vertical position ($0\text{ rad}$) within 1.5–2 seconds.*
+
